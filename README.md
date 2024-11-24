@@ -1,6 +1,3 @@
-
-<img align = "right" src="https://i.pinimg.com/originals/01/48/27/014827e6459bcdd4eb4ffe5c066481a5.gif" width="200" height = "200" alt="jinx">
-
 # ☁️ Arcane Bross
 
 **Arcane Bross** é um jogo de plataforma inspirado em títulos icônicos como **Mario Bros** e **Geometry Dash**, desenvolvido para proporcionar uma experiência desafiadora e divertida. No controle da personagem principal, Jinx, o jogador deve superar obstáculos e plataformas, evitando quedas, enquanto avança para encontrar sua irmã, Vi, e concluir a jornada.
@@ -37,7 +34,7 @@
    - `vi.png`
 3. Abra o arquivo `index.html` em um navegador.
 
-## **Parceria**
+## 👥 **Parceria**
 Jogo feito em parceria com o Nathan.
 
 ---
